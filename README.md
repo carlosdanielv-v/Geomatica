@@ -11,7 +11,7 @@ Villasante-carlos
 
 La cartografía es mucho más que simplemente dibujar mapas. Es la ciencia, el arte y la tecnología de crear y estudiar mapas. Desde sus orígenes, su objetivo principal ha sido representar la superficie terrestre o cualquier otro espacio (como planetas, cuerpos celestes o incluso conceptos abstractos) de manera gráfica y comprensible.
 
-### Conceptos Fundamentales de la Cartografía
+***Conceptos Fundamentales de la Cartografía***
 
 Para entender cómo funcionan los mapas, es crucial familiarizarse con algunos conceptos clave:
 
